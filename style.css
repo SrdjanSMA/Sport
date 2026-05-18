@@ -50,7 +50,7 @@ nav a:hover {
 /* HERO (background slika) */
 header {
     flex: 1;
-    background: url("slike/teretana.jpg") no-repeat center/cover;
+    background: url("/slike/teretana.jpg") no-repeat center/cover;
     position: relative;
 }
 
